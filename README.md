@@ -1,2 +1,2 @@
-# simple-portfolio
+# Simple-portfolio
 My first Demo portfolio ;)
